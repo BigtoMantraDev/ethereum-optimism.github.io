@@ -7552,6 +7552,44 @@
         "opListId": "extended",
         "opTokenId": "ZYN"
       }
+    },{
+      "chainId": 1,
+      "address": "0x3593D125a4f7849a1B059E64F4517A86Dd60c95d",
+      "name": "MANTRA DAO",
+      "symbol": "OM",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/12151/standard/OM_Token.png",
+      "extensions": {
+        "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+        "opListId": "extended",
+        "opTokenId": "OM"
+      }
+    },
+    {
+      "chainId": 11155111,
+      "address": "0xCbC45aaD4a64B081a51b8ebD12a16864F3c0a930",
+      "name": "MANTRA DAO",
+      "symbol": "OM",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/12151/standard/OM_Token.png",
+      "extensions": {
+        "baseBridgeAddress": "0xfd0Bf71F60660E2f608ed56e1659C450eB113120",
+        "opListId": "extended",
+        "opTokenId": "OM"
+      }
+    },
+    {
+      "chainId": 84532,
+      "address": "0x3011F9ef02c27A6a678e0099584C1c5Be64134A1",
+      "name": "MANTRA DAO",
+      "symbol": "OM",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/12151/standard/OM_Token.png",
+      "extensions": {
+        "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+        "opListId": "extended",
+        "opTokenId": "OM"
+      }
     }
   ],
   "version": {
