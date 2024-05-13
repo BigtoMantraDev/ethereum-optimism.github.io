@@ -7579,6 +7579,19 @@
       }
     },
     {
+      "chainId": 8453,
+      "address": "0x3992b27da26848c2b19cea6fd25ad5568b68ab98",
+      "name": "MANTRA",
+      "symbol": "OM",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/12151/standard/OM_Token.png",
+      "extensions": {
+        "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+        "opListId": "extended",
+        "opTokenId": "OM"
+      }
+    },
+    {
       "chainId": 84532,
       "address": "0x3011F9ef02c27A6a678e0099584C1c5Be64134A1",
       "name": "MANTRA DAO",
